@@ -1,6 +1,6 @@
 # telecom-service-api
 
-This provides a basic demo apis for a telecom service that manages stored phone numbers associated to customer ( 1:n - 1 customer can have multiple phone numbers). 
+This provides basic demo apis for a telecom service that manages stored phone numbers associated to customer ( 1:n - 1 customer can have multiple phone numbers). 
 
 Following interaces has been provided:
 
